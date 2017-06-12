@@ -5,3 +5,67 @@
 |------+-------------+-------------+--------+------+---------------+------|
 |      |             |             |        |      |               |      |
 |------+-------------+-------------+--------+------+---------------+------|
+
+** Non formatted
+[well balanced] - Streep van alle categorieën precies (2/4/6/8) dingen op een dag
+[early adaptor] - streep een nieuw product in zijn eerste week
+[Dora the explorer] Join ( ... ) excursions
+[Assembler] Visit (1 / 2 /3 / 4) general assemblies in a row
+[What are colloquium points anyway?] Bezoek 1/2/3 symposia van Francken
+[Friday night #live] streep het laatste biertje op de vrijmibo
+[What are you fondoing?] Streep een fristi/choco combo
+[Phrasing?] Schrijf een blog voor Francken (of de Slef)
+[heb je Dors ofzo?] Streep n dors in een week
+[Early bird] streep tjak voor 9/eerste van de dag
+[motion generator] Neem deel aan 2/3/5 moties op de ALV
+[What else?] Streep alleen maar nespresso gedurende een (week|maand)
+[I don't know what I'm doing] Gebruik de randombierknop net zolang tot je alle beschikbare alcohol hebt gestreept
+[Diesel engine] Streep elke werkdag een biertje gedurende een (maand|jaar)
+[Did you say free lunch?] Ben aanwezig bij (2|4|6) lunchlezingen
+[Armstrong] win een Tour
+[Mt. Neverest] win het bergklassement
+[Hier teken ik voor] Maak een strip voor de Francken Vrij
+[What time is it?] Bel idun en voor de tijd
+[+1/2/3/n] Streep voor (2/3/4/n+1) mensen in 1 minuut, eindigend met jezelf
+[Ik lees hem heus wel] Lees de ledenmailing (2|4|8) keer
+[best dishes] doe de afwas in de Franckenkamer
+[Bo(a|re)d] Word bestuur
+[what do you mean by Jumbo?] Streep n eten in een week
+[shooting star] streep n starmix in ..
+[Grim Guzzler] Streep n donkere biertjes op een dag
+[Mas bueno] Streep n kinder buenos
+[Lets cellebradt] streep n bier op je verjaardag
+[tadtjikistan] Werk een templecount van minstens 10 weg op 1 dag
+[Gedeeltelijk aanwezig] Mis de helft van de Fraccie-vergaderingen
+[Repairshop] Streep at least 1 pills after steeping n pills the day before.
+[Wodka vodka todka todka kodka] Survive a year of being borrelcie
+[Kotcie] Join the kotcie
+[Ken ik jou niet ergens van?] Krijg een relatie met een Francken(lid|donateur)
+[Ik ben hier eigenlijk alleen maar voor de boeken] "Lees" een jaar lang de playboy
+[Wienner wienner chicken dinner], Order food that is either vegetarian, contains chicken or contains sausage
+[Better than Pluijmpje] Do 4 push ups
+[Thuisblijven is meemaken] Organize the Buixieval or the Sleftival
+[back to reality] Become the n'th top backer
+[always on my mind] get carlost
+[Don't quote me on this] Get quoted on the borrelcie website
+[King of Queen] Listen to Queen a total of n hours
+[Fom?] Eet 100 bitterballen (verdeeld over al je bitterballenborrels?)
+[Proostfessor] Win n potjes chwazi
+[Compelling crasher] Win het crashklassement in een C&C
+[Dashing compiler] Win het codeklassement in een C&C
+[Wat was troef ook alweer?] Speel n boompjes klaverjas
+[My.... My stapler] Leen de nietmachine tijdens een BV
+[maandag, tik em m'aandag]
+[taaaaank] speel met drie andere left voor dead
+[kathinka?] Vraag Kathinka(-bot)  of je deze Achievement mag
+[Dorsakov] drink teringveel Dors
+[Adtcie(vement) unlocked] deze commissie is ingehamerd
+[Jack in the box] Play a round of stiften with Sjaars. (Credits Arjen)
+[Get the picture] - zoek foto's van een activiteit uit
+[geen vragen is sneu] stel een vraag op het symposium|vrijmibo|buixie
+[ik wil ze allemaal] streep op 1 dag van elk biertje 1
+[Got lost?] Be last in a hitchhiking competition
+[Su-Elle] Trek 5 riet ad in 1 uur
+[Practitioner] Be a member of the oefensescie (while doing a phd)
+[Frank en Vrij] Mits je ook de Francken Vrij doet
+[Git reckt] gebruik Git met je commissie
